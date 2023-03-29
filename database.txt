@@ -1,0 +1,7 @@
+Postgres 14
+
+url:port
+104.199.12.40:5432
+
+username:password
+hyper:Rox6kTdcxcRzPeEWB6Ff
